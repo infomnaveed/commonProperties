@@ -1,0 +1,2 @@
+# commonProperties
+Testing Git
